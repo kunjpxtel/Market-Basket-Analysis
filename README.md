@@ -80,17 +80,38 @@ Design targeted promotional campaigns.
 Improve inventory planning based on purchasing patterns.
 
 # Visualizations
-![Association Rules: Confidence vs. Support](Image/Association%20Rules%3A%20Confidence%20vs.%20Support.png)
+<table>
+  <!-- Row 1 -->
+  <tr>
+    <td>
+      <img src="Image/Association-Rules-Confidence-vs-Support.png" alt="Confidence vs. Support" width="400" height="300">
+    </td>
+    <td>
+      <img src="Image/Top%2015%20Rules:%20Parallel%20Item%20Coordinates%20Pathway.png" alt="Parallel Item Coordinates" width="400" height="300">
+    </td>
+  </tr>
+  
+  <!-- Row 2 -->
+  <tr>
+    <td>
+      <img src="Image/Association%20Rules%20Confidence%20Heatmap.png" alt="Confidence Heatmap" width="400" height="300">
+    </td>
+    <td>
+      <img src="Image/Network%20Graph%20of%20Top%20Association%20Rules%20%28Lift-based%20Product%20Clusters%29.png" alt="Network Graph" width="400" height="300">
+    </td>
+  </tr>
 
-![Top 15 Rules: Parallel Item Coordinates Pathway](Image/Top%2015%20Rules:%20Parallel%20Item%20Coordinates%20Pathway.png)
+  <!-- Row 3 -->
+  <tr>
+    <td>
+      <img src="Image/Top%2015%20Association%20Rules%20by%20Confidence.png" alt="Top 15 Rules by Confidence" width="400" height="300">
+    </td>
+    <td>
+      <img src="Image/Top%2010%20Association%20Rules:%20Multi-Metric%20Comparison.png" alt="Top 10 Multi-Metric" width="400" height="300">
+    </td>
+  </tr>
+</table>
 
-![Association Rules Confidence Heatmap](Image/Association%20Rules%20Confidence%20Heatmap.png)
-
-![Network Graph of Top Association Rules](Image/Network%20Graph%20of%20Top%20Association%20Rules%20%28Lift-based%20Product%20Clusters%29.png)
-
-![Top 15 Association Rules by Confidence](Image/Top%2015%20Association%20Rules%20by%20Confidence.png)
-
-![Top 10 Association Rules: Multi-Metric Comparison](Image/Top%2010%20Association%20Rules:%20Multi-Metric%20Comparison.png)
 
 # Technologies Used
 Python,
