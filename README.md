@@ -107,7 +107,7 @@ Improve inventory planning based on purchasing patterns.
       <img src="Image/Top%2015%20Association%20Rules%20by%20Confidence.png" alt="Top 15 Rules by Confidence" width="450" height="320" style="object-fit: cover;">
     </td>
     <td>
-      <img src="Image/Top%2010%20Association%20Rules:%20Multi-Metric%20Comparison.png" alt="Top 10 Multi-Metric" width="450" height="320" style="object-fit: cover;">
+      <img src="Image/Top%2010%20Association%20Rules%20-%20Multi-Metric%20Comparison.png" alt="Top 10 Multi-Metric" width="450" height="320" style="object-fit: cover;">
     </td>
   </tr>
 </table>
