@@ -84,33 +84,34 @@ Improve inventory planning based on purchasing patterns.
   <!-- Row 1 -->
   <tr>
     <td>
-      <img src="Image/Association-Rules-Confidence-vs-Support.png" alt="Confidence vs. Support" width="400" height="300">
+      <img src="Image/Association%20Rules%20Confidence%20vs.%20Support.png" alt="Confidence vs. Support" width="450">
     </td>
     <td>
-      <img src="Image/Top%2015%20Rules:%20Parallel%20Item%20Coordinates%20Pathway.png" alt="Parallel Item Coordinates" width="400" height="300">
+      <img src="Image/Top%2015%20Rules:%20Parallel%20Item%20Coordinates%20Pathway.png" alt="Parallel Item Coordinates" width="450">
     </td>
   </tr>
   
   <!-- Row 2 -->
   <tr>
     <td>
-      <img src="Image/Association%20Rules%20Confidence%20Heatmap.png" alt="Confidence Heatmap" width="400" height="300">
+      <img src="Image/Association%20Rules%20Confidence%20Heatmap.png" alt="Confidence Heatmap" width="450">
     </td>
     <td>
-      <img src="Image/Network%20Graph%20of%20Top%20Association%20Rules%20%28Lift-based%20Product%20Clusters%29.png" alt="Network Graph" width="400" height="300">
+      <img src="Image/Network%20Graph%20of%20Top%20Association%20Rules%20%28Lift-based%20Product%20Clusters%29.png" alt="Network Graph" width="450">
     </td>
   </tr>
 
   <!-- Row 3 -->
   <tr>
     <td>
-      <img src="Image/Top%2015%20Association%20Rules%20by%20Confidence.png" alt="Top 15 Rules by Confidence" width="400" height="300">
+      <img src="Image/Top%2015%20Association%20Rules%20by%20Confidence.png" alt="Top 15 Rules by Confidence" width="450">
     </td>
     <td>
-      <img src="Image/Top%2010%20Association%20Rules:%20Multi-Metric%20Comparison.png" alt="Top 10 Multi-Metric" width="400" height="300">
+      <img src="Image/Top%2010%20Association%20Rules:%20Multi-Metric%20Comparison.png" alt="Top 10 Multi-Metric" width="450">
     </td>
   </tr>
 </table>
+
 
 
 # Technologies Used
