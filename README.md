@@ -87,7 +87,7 @@ Improve inventory planning based on purchasing patterns.
       <img src="Image/Association%20Rules%20Confidence%20vs.%20Support.png" alt="Confidence vs. Support" width="450" height="320" style="object-fit: cover;">
     </td>
     <td>
-      <img src="Image/Top%2015%20Rules:%20Parallel%20Item%20Coordinates%20Pathway.png" alt="Parallel Item Coordinates" width="450" height="320" style="object-fit: cover;">
+      <img src="Image/Top%2015%20Rules%20-%20Parallel%20Item%20Coordinates%20Pathway.png" alt="Parallel Item Coordinates" width="450" height="320" style="object-fit: cover;">
     </td>
   </tr>
   
