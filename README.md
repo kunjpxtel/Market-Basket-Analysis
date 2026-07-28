@@ -16,35 +16,8 @@ The generated rules are ranked according to confidence and support to identify t
 
 # Project Architecture
 
-A[Groceries Dataset (.csv)] --> B[Google Colab]
+<img width="2720" height="4960" alt="market_basket_project_architecture" src="https://github.com/user-attachments/assets/f801f997-f7b9-4c81-853c-97a4d4f0d2bf" />
 
-B --> C[Data Inspection]
-
-C --> D[Missing Value Analysis]
-
-D --> E[Data Preparation]
-
-E --> F[Apriori Algorithm]
-
-F --> G[Frequent Itemsets]
-
-G --> H[Association Rules]
-
-H --> I[Support]
-
-H --> J[Confidence]
-
-H --> K[Lift]
-
-I --> L[Rule Ranking]
-
-J --> L
-
-K --> L
-
-L --> M[Visualizations]
-
-M --> N[Business Insights]
 
 # Project Workflow
 Dataset Collection > Import Dataset > Dataset Inspection > Missing Value Analysis > Transaction Preparation > Apriori Algorithm > Frequent Itemset Mining > Association Rule Generation > Support • Confidence • Lift > Rule Ranking > Visualizations > Business Insights
