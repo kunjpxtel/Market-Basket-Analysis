@@ -80,7 +80,7 @@ Design targeted promotional campaigns.
 Improve inventory planning based on purchasing patterns.
 
 # Visualizations
-![Association Rules: Confidence vs. Support](Image/Association%20Rules:%20Confidence%20vs.%20Support.png)
+![Association Rules: Confidence vs. Support](Image/Association%20Rules%3A%20Confidence%20vs.%20Support.png)
 
 ![Top 15 Rules: Parallel Item Coordinates Pathway](Image/Top%2015%20Rules:%20Parallel%20Item%20Coordinates%20Pathway.png)
 
