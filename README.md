@@ -80,17 +80,17 @@ Design targeted promotional campaigns.
 Improve inventory planning based on purchasing patterns.
 
 # Visualizations
-![Association Rules: Confidence vs. Support](Association Rules: Confidence vs. Support.png)
+![Association Rules: Confidence vs. Support](Image/Association Rules: Confidence vs. Support.png)
 
-![Top 15 Rules: Parallel Item Coordinates Pathway](Top 15 Rules: Parallel Item Coordinates Pathway.png)
+![Top 15 Rules: Parallel Item Coordinates Pathway](Image/Top 15 Rules: Parallel Item Coordinates Pathway.png)
 
-![Association Rules Confidence Heatmap](Association Rules Confidence Heatmap.png)
+![Association Rules Confidence Heatmap](Image/Association Rules Confidence Heatmap.png)
 
-![Network Graph of Top Association Rules (Lift-based Product Clusters)](Network Graph of Top Association Rules (Lift-based Product Clusters).png)
+![Network Graph of Top Association Rules (Lift-based Product Clusters)](Image/Network Graph of Top Association Rules (Lift-based Product Clusters).png)
 
-![Top 15 Association Rules by Confidence](Top 15 Association Rules by Confidence.png)
+![Top 15 Association Rules by Confidence](Image/Top 15 Association Rules by Confidence.png)
 
-![Top 10 Association Rules: Multi-Metric Comparison](Top 10 Association Rules: Multi-Metric Comparison.png)
+![Top 10 Association Rules: Multi-Metric Comparison](Image/Top 10 Association Rules: Multi-Metric Comparison.png)
 
 # Technologies Used
 Python,
